@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WunderTask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Todos</string>
+    <string name="menu_gallery">Importantes</string>
+    <string name="menu_slideshow">Planeados</string>
+    <string name="menu_list">Lista</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="desc">descripcion</string>
+    <string name="tipo_tarea">TAREAS</string>
+
+    <string name="agregar">AGREGAR</string>
+    <string name="editar">EDITAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="titulo">TITULO</string>
+    <string name="fecha">FECHA</string>
+    <string name="poner_titulo">Ingrese un titulo</string>
+    <string name="poner_desc">Ingrese una descripción</string>
+    <string name="poner_fecha">Fecha límite</string>
+    <string name="importancia">Asignar importancia </string>
+    <string name="Importante">IMPORTANTE</string>
+    <string name="muy_importante">MUY IMPORTANTE</string>
+    <string name="poco_importante">POCO IMPORTANTE</string>
+
+    <string name="usuarios_compartidos">USUARIOS COMPARTIDOS</string>
+    <string name="Usuarios">USUARIOS</string>
+    <string name="Introducir_correo">Introducir correo</string>
+    <string name="Correo">CORREO</string>
+
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_sortByImportance"
+        android:orderInCategory="50"
+        android:title="Ordenar por importancia"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_sortByDate"
+        android:orderInCategory="52"
+        android:title="Ordenar por fecha"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sortByUser"
+        android:orderInCategory="53"
+        android:title="Ordenar por usuario"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="110"
+        android:title="Cerrar sesion"
+        app:showAsAction="never"/>
+</menu>

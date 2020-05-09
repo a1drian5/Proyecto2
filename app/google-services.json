@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133534822606",
+    "firebase_url": "https://wundertask-f122b.firebaseio.com",
+    "project_id": "wundertask-f122b",
+    "storage_bucket": "wundertask-f122b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133534822606:android:de64d4cb32ad27defd609f",
+        "android_client_info": {
+          "package_name": "com.villoria.wundertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133534822606-soi3h52rhk1tf67gk5sfgnhm2tm9o7m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.villoria.wundertask",
+            "certificate_hash": "640af63252270f66c0978641c8d4e41d9f949a31"
+          }
+        },
+        {
+          "client_id": "133534822606-leds8p9u47n9f6nb3do9n3rls3r1a1ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnEW5KPxYn7YhAxt6NgAH5arwbQvXMXJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133534822606-leds8p9u47n9f6nb3do9n3rls3r1a1ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
